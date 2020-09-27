@@ -28,14 +28,14 @@ password - 密码
         <dbname>ORCL</dbname>
     </auth>
 
-    <auth id="MYSQL_172.21.86.205">
-        <dbtype>MYSQL</dbtype>
-        <host>172.21.86.205</host>
-        <port>3306</port>
-        <user>root</user>
-        <passwd>UPscGj8PuIBzZEvuJqdiMz/u0mbrxwVQh06nTFIM3Esg0tD2B0iADAa6Zf0MGescBtPzpbVdoRolX7+Ce3+D6A==</passwd>
-        <dbname>test</dbname>
-    </auth>
+<!--    <auth id="MYSQL_172.21.86.205">-->
+<!--        <dbtype>MYSQL</dbtype>-->
+<!--        <host>172.21.86.205</host>-->
+<!--        <port>3306</port>-->
+<!--        <user>root</user>-->
+<!--        <passwd>UPscGj8PuIBzZEvuJqdiMz/u0mbrxwVQh06nTFIM3Esg0tD2B0iADAa6Zf0MGescBtPzpbVdoRolX7+Ce3+D6A==</passwd>-->
+<!--        <dbname>test</dbname>-->
+<!--    </auth>-->
 
     <auth id="MGR_172.21.86.205">
         <dbtype>MYSQL</dbtype>
